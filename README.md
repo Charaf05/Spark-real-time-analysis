@@ -1,3 +1,3 @@
 # Spark-real-time-analysis
-本文是一个完整的大数据项目实战，实时|离线统计分析用户的搜索话题，并用酷炫的前端界面展示出来。所用到的框架包括：Flume+KafKa+Hbase+Hive+Spark（SQL、Structured Streaming ）+Mysql+SpringMVC+Mybatis+Websocket+AugularJs+Echarts。所涉及到的语言包括：JAVA、Scala、Shell。
-详情请参考博客：https://yq.aliyun.com/articles/557454
+This article is a complete big data project actual combat, real-time|offline statistical analysis of users' search topics, and displayed with a cool front-end interface.The frameworks used include: Flume+KafKa+Hbase+Hive+Spark (SQL, Structured Streaming) +Mysql+SpringMVC+Mybatis+Websocket+AugularJs+Echarts.The languages involved include: JAVA, Scala, Shell.
+For details, please refer to the blog: https://yq.aliyun.com/articles/557454
